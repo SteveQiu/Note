@@ -1,0 +1,5 @@
+ function cs(){ cd "$1" && pwd && ls -a; }
+ 
+sudo apt-get install grub-customizer
+ 
+sudo apt-get install grub-customizer unity-tweak-tool
