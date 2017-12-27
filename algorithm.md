@@ -16,12 +16,17 @@ switch < 2+ if else
 
 assignment < comparison
 
+# Sorting
 
 insertion sort 1/2 n^2
 
 merge sort 6n log2n + 6n
 
 insertion sort = merge sort @ n ~= 90
+
+Quicksort - highly  efficient  for  large  data  sets
+ 
+Bubble sort - is  actually  more  efficient  for  small  data  sets
 
 # Space and Storage
 
