@@ -12,4 +12,6 @@ With tasks that depend on other tasks, bounded thread pools or queues can cause 
 
 Single operation -> atomic short, int, reference ... for finer granularity
 
-ReentrantLock -> conditional operation
+ReentrantLock -> high contention conditional operation
+
+As  performance graphs  suggests,  at  high  contention  levels  locking  tends  to  outperform  atomic  variables,  but  at  more  realistic  contention levels atomic variables outperform locks
