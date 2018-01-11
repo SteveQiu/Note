@@ -2,6 +2,8 @@
 
 Public method + final variables
 
+contract between developers
+
 # Abstract (extends)
 
 Parent class with duplicate method implementation
