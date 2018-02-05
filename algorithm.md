@@ -40,4 +40,4 @@ Int : 32 bits of boolean
 
 Store milestone and relative distance
 
-update milestone base on +/- distance
+update milestone base on +/- distance (to store storage space)
