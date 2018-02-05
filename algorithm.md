@@ -35,3 +35,9 @@ Hash Table : key and value match
 data[]: Fix number of data(boolean int)
 
 Int : 32 bits of boolean
+
+# change on new milestone
+
+Store milestone and relative distance
+
+update milestone base on +/- distance
