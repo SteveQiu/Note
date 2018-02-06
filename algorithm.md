@@ -36,7 +36,7 @@ data[]: Fix number of data(boolean int)
 
 Int : 32 bits of boolean
 
-# change on new milestone
+# New Milestone Problems
 
 Store milestone and relative distance
 
