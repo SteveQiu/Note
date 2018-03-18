@@ -28,4 +28,4 @@
 |  |  | training hours per employee |
 |  |  | number and scope of skills learnt |
 
-reference <<Business Strategy>> Jeremy Kourdi 
+reference "Business Strategy" Jeremy Kourdi 
