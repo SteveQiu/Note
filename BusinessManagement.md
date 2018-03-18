@@ -27,3 +27,5 @@
 |  |  | outputs from employees' training |
 |  |  | training hours per employee |
 |  |  | number and scope of skills learnt |
+
+reference <<Business Strategy>> Jeremy Kourdi 
