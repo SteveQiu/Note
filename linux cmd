@@ -3,3 +3,10 @@
 sudo apt-get install grub-customizer
  
 sudo apt-get install grub-customizer unity-tweak-tool
+
+#smooth scrolling
+synclient MinSpeed=1.8 MaxSpeed=2 AccelFactor=0.02 ClickPad=1 VertHysteresis=0.1 HorizHysteresis=0.1 VertScrollDelta=-100 HorizScrollDelta=-100 HorizTwoFingerScroll=1
+
+# text to speech shortcut command
+# bash -c "xsel | espeak -v mb-us2 -s 148 --stdin"
+
